@@ -2,7 +2,7 @@
 
 HPCell, a Hypergraph Transformer framework for predicting cell type abundance from spatial histology image.
 
-![model.pdf](https://github.com/VitaIntelli-CQU/HPCell/blob/main/model.pdf)
+![model.jpg](https://github.com/VitaIntelli-CQU/HPCell/blob/main/model.jpg)
 
 ## Installation  
 
