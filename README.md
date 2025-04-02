@@ -64,5 +64,13 @@ To prepare your own dataset, please follow `data_preparation_tutorial.ipynb`, us
 
 This work uses parts of the code from [https://github.com/Weiqin-Zhao/Hist2Cell].
 
-
-
+## Citation
+If you find our codes useful, please consider citing our work:
+```
+@article{HPCell,
+  title={Accurately predicting cell type abundance from spatial histology image through HPCell},
+  author={Yongkang Zhao, YouYang Li, Weijiang Yu, Hongyu Zhang, Zheng Wang, Yuedong Yang, Yuansong Zeng},
+  journal={},
+  year={2025},
+}
+```
